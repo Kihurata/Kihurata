@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Kihurata. I study Information Technology!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 # 💫 About Me:
 - 💡 Building **Progressive Web Apps (PWAs)** with an offline-first architecture, local data storage, and silent synchronization.
@@ -16,16 +16,10 @@
 | <a href="https://github.com/Kihurata/github-readme-stats"><img align="center" src="https://github-readme-stats.shion.dev/api?username=Kihurata&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kihurata's github stats" /></a> | <a href="https://github.com/Kihurata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kihurata&layout=compact&theme=dark&hide_border=false" /></a> |
 | ------------- | ------------- |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kihurata&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kihurata&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Kihurata&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
